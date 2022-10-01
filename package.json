@@ -1,0 +1,25 @@
+{
+  "name": "parcel-starter",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/views/index.html",
+    "build": "parcel build src/views/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaitbek/parcel-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaitbek/parcel-starter/issues"
+  },
+  "homepage": "https://github.com/khaitbek/parcel-starter#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  }
+}
